@@ -26,3 +26,49 @@ h3 {
     float: left;
     margin: 0 15 0 15;
 }
+.contacts{
+    
+   
+}
+.description{
+    
+    text-align: justify;
+    
+    padding-inline-start: 25px;
+    padding-inline-end: 25px;
+    
+}
+.center-h{
+    display: flex;
+   align-items: center;
+   
+}
+
+.link-right{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    font-weight: bolder;
+    text-align: right;
+}
+.twoCols{
+    
+    width: 49%;
+}
+.footer{
+    background-color: burlywood;
+    padding-bottom: 10px;
+    display: inline-flex;
+}
+.lineal{
+    display: inline-flex;
+}
+.team{
+    font-size: 0.9em;
+    margin-bottom: 7px;
+    margin-right: 42px;
+}
+.name{
+    font-size: 1em;
+    font-weight: bold;
+}
