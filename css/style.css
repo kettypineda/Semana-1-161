@@ -1,0 +1,28 @@
+h1 {
+    margin: 15 0 15 0;
+}
+
+body {
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 5 10 10 10;
+}
+
+h3 {
+    text-align: center;
+    margin: 10 10 10 10;
+}
+
+#image {
+    float: left;
+    margin: 0 15 0 15;
+}
