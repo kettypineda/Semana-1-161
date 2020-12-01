@@ -1,5 +1,5 @@
 # MinTic2022_Cliclo3_Semana1_Gr:161
-
+personal
 Proyecto requerido en el curso de MinTic programa 2022 ciclo 3 semana 1 impartido por la Universidad Tecnológica de Pereira en un forma virtual
 
 #### Grupo 161
